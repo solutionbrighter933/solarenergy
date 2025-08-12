@@ -1,0 +1,132 @@
+Na pagina "Cases de sucesso", Preencha com as informações dos clientes.
+
+Para todos considere geração media de 125kwh por mês a cada kwp, Valor do kwh R$1,00.
+Faça o calculo de economia anual.
+O payback varia de 2-3 anos, coloque numeros variados para cada projeto.
+Escreva frases impactantes para cada um.
+
+
+Fazenda Rogério
+Classe: Agronegócio
+Local: Turvolandia - MG
+Potência: 13,20 kWp
+Use a imagem "Fazenda-Rogério"
+
+Fazenda Ramon
+Classe: Agronegócio
+Local: Turvolandia - MG
+Potência: 38,50 kWp
+Use a imagem "Fazenda-Ramon"
+
+Fazenda Luciano
+Classe: Agronegócio
+Local: Silvianópolis - MG
+Potência: 66 kWp
+Use a imagem "Fazenda-Luciano"
+
+Laticínio Dois Jota
+Classe: Comercial
+Local: Silvianópolis - MG
+Potência: 53,90 kWp
+Use a imagem "Laticinio-Dois-Jota"
+
+Fazenda João Mineiro
+Classe: Agronegócio
+Local: Silvianópolis - MG
+Potência: 52,80 kWp
+Use a imagem "Fazenda-Joao-Mineiro"
+
+Brinquedoteca
+Classe: Comercial
+Local: Pouso Alegre - MG
+Potência: 33 kWp
+Use a imagem "Brinquedoteca"
+
+Fazenda Eliezer
+Classe: Agronegócio
+Local: Silvianópolis - MG
+Potência: 12,10 kWp
+Use a imagem "Fazenda-Eliezer"
+
+Farmácia do Dito
+Classe: Comercial
+Local: Silvianópolis - MG
+Potência: 6,60 kWp
+Use a imagem "Farmacia-Dito"
+
+Fazenda Afonso
+Classe: Agronegócio
+Local: Ipuiuna - MG
+Potência: 17,60 kWp
+Use a imagem "Fazenda-Afonso"
+
+Casa Pousada dos Campos
+Classe: Residencial
+Local: Pouso Alegre - MG
+Potência: 8,80 kWp
+Use a imagem "Casa-Pousada-dos-Campos"
+
+Chacara Dourado
+Classe: Residencial
+Local: Espirito Santo Dourado - MG
+Potência: 8,80 kWp
+Use a imagem "Chacara"
+
+Casa Fatima
+Classe: Residencial
+Local: Pouso Alegre - MG
+Potência: 8,80 kWp
+Use a imagem "Casa-Fatima"
+
+Casa Ibira
+Classe: Residencial
+Local: Pouso Alegre - MG
+Potência: 9,2 kWp
+Use a imagem "Casa-Ibira"
+
+Café Dourado
+Classe: Comercial
+Local: Espirito Santo Dourado - MG
+Potência: 4,40 kWp
+Use a imagem "Café-dourado"
+
+Fazenda Vilmar
+Classe: Agronegócio
+Local: Turvolandia - MG
+Potência: 22 kWp
+Use a imagem "Fazenda-Vilmar"
+
+Fazenda Estáquio
+Classe: Residencial
+Local: Silvianópolis - MG
+Potência: 22 kWp
+Use a imagem "Fazenda-estáquio"
+
+Lanchonete Denísio
+Classe: Comercial
+Local: Santa rita de Caldas - MG
+Potência: 17,60 kWp
+Use a imagem "Lanchonete-denísio"
+
+Casa Arvore Grande
+Classe: Residencial
+Local: Pouso Alegre - MG
+Potência: 9,6 kWp
+Use a imagem "Casa-arvore-grande"
+
+Casa Recanto dos Fernandes
+Classe: Residencial
+Local: Pouso Alegre - MG
+Potência: 5,5 kWp
+Use a imagem "Casa-Recanto-Fernandes"
+
+
+
+
+
+
+
+
+
+
+
